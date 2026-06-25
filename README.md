@@ -1,8 +1,3 @@
-🧠 IQ Industries
-Building a more intelligent financial system.
+# IQIndustries GitHub
 
-⚡ We build crypto, AI, and financial infrastructure across the IQ ecosystem.
-
-🚀 Our work includes IQ.wiki, AIDEN, KRWQ, BrainDAO tools, and related open infrastructure.
-
-✨ Learn more: https://iqindustries.com
+Shared GitHub configuration and profile files for IQIndustries.
